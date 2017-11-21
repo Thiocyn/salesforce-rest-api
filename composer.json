@@ -1,5 +1,5 @@
 {
-  "name": "jschaedl/salesforce-rest-api",
+  "name": "thiocyn/salesforce-rest-api",
   "license": "MIT",
   "require": {
     "psr/log": "*",
